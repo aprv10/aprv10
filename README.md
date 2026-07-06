@@ -1,12 +1,12 @@
 <!-- Put your GIF at assets/banner.gif (or change the src path below) -->
 
 <p align="center">
-  <img src="./assets/banner.gif" alt="banner" width="100%" />
+  <img src="./banner.gif" alt="banner" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/aprv10">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2500&pause=900&color=6B7280&center=true&vCenter=true&width=560&lines=ML+research+papers+implemented+from+scratch;AI+systems+%C2%B7+agents+%C2%B7+full-stack+applications;find+a+problem+%E2%86%92+build+%E2%86%92+break+%E2%86%92+ship+%E2%86%92+repeat" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2500&pause=900&color=6B7280&center=true&vCenter=true&width=560&lines=ML+research;AI+systems+%C2%B7+agents+%C2%B7+full-stack+applications;build+%E2%86%92+break+%E2%86%92+ship+%E2%86%92+repeat" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,7 +14,6 @@
 
 ## Apoorv Singh
 
-`1 != 1`
 
 I build things from first principles — ML papers reproduced from scratch, AI systems and agents, and full-stack applications. I'd rather understand a system from the inside out than wrap an API.
 
@@ -35,10 +34,11 @@ I build things from first principles — ML papers reproduced from scratch, AI s
 
 ## Notable Open Source Contributions
 
-| Project                                                | Contribution                                    |
-| ------------------------------------------------------ | ----------------------------------------------- |
-| **[repo-name](https://github.com/org/repo/pull/000)**  | \<what you added / fixed\>                       |
-| **[repo-name](https://github.com/org/repo/pull/000)**  | \<what you added / fixed\>                       |
+| Project                                                |
+| ------------------------------------------------------ |
+| **[Agent Orchestrator](https://github.com/AgentWrapper/agent-orchestrator/pull/2422)**  |
+| **[Meshery](https://github.com/meshery/meshery/pull/19498)**  |
+and more...
 
 ---
 
@@ -48,6 +48,11 @@ I build things from first principles — ML papers reproduced from scratch, AI s
 
 Primary focus: ML from first principles · AI systems · agents · full-stack
 
----
+Open to internships: ML/AI · Full-stack · DevOps
 
-*Curious by default. I like understanding how things actually work.*
+---
+1apoorvindia@gmail.com · [@xvzaprv](https://x.com/xvzaprv)
+
+<br />
+
+*Reverse engineering reality one repo at a time.*
