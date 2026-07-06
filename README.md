@@ -1,7 +1,7 @@
 <!-- Put your GIF at assets/banner.gif (or change the src path below) -->
 
 <p align="center">
-  <img src="./banner.gif" alt="banner" width="100%" />
+  <img src="./banner.gif" alt="banner" width="700" height="300" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 ## Apoorv Singh
 
 
-I build things from first principles — ML papers reproduced from scratch, AI systems and agents, and full-stack applications. I'd rather understand a system from the inside out than wrap an API.
+I build things from first principles — ML papers reproduced from scratch, AI systems and agents, and full-stack applications. I build from first principles when it counts, and ship fast with the right API when it doesn't.
 
 🌐 [aprv.vercel.app](https://aprv.vercel.app)
 
